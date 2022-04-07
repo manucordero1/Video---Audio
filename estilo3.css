@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Wet+Paint&display=swap');
+body{
+	background-color: #E63629;
+	font-family: 'Rubik Wet Paint';
+text-align: center;}
+
+	h1 {font-family: 'Rubik Wet Paint';}
+	h2 {font-family: 'Rubik Wet Paint';
+		font-size: 42px;
+		color: #FC9721;
+		margin: 10px;}
